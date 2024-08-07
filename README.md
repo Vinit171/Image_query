@@ -2,15 +2,15 @@
 Efficiently extracts relevant information from text based on user queries.
 
 
-**# Information Extraction System**
-##Overview
+# Information Extraction System
+## Overview
 Welcome to the Information Extraction System project! This project utilizes advanced technologies including Generative AI (GenAI), Large Language Models (LLMs), Python, various Python libraries, and Streamlit to create an interactive tool for extracting information from text based on user queries. Additionally, the system supports information extraction from image formats.
 
-**##Features
-**Text-Based Information Extraction**: Efficiently extracts relevant information from text based on user queries.
-**Image Format Support**: Extracts text information from images for query processing.
-**Interactive User Interface**: Utilizes Streamlit to provide a user-friendly interface for querying and displaying results.
-##**Prerequisites**
+## Features
+### Text-Based Information Extraction: Efficiently extracts relevant information from text based on user queries.
+### Image Format Support: Extracts text information from images for query processing.
+### Interactive User Interface: Utilizes Streamlit to provide a user-friendly interface for querying and displaying results.
+## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
 - Python 3.8 or higher
