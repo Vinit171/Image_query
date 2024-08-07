@@ -13,7 +13,7 @@ import google.generativeai as genai
 from langchain.prompts import FewShotPromptTemplate
 import time
 
-GOOGLE_API_KEY = "AIzaSyDTYAGY84OuIMJ45feOBkvvVT9vUxBOXMA"
+GOOGLE_API_KEY = "Enter your api key here"
 genai.configure(api_key=GOOGLE_API_KEY)  # load api and assign
 
 safety_settings = [
